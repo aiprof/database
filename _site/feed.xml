@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/database/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/database/" rel="alternate" type="text/html" /><updated>2020-08-29T11:36:03-04:00</updated><id>http://localhost:4000/database/feed.xml</id><title type="html">ISM5992 Database Systems</title><subtitle>Course Site for Database Systems Course (ISM5992).</subtitle><entry><title type="html">Course Policies</title><link href="http://localhost:4000/database/about/" rel="alternate" type="text/html" title="Course Policies" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/database/about</id><content type="html" xml:base="http://localhost:4000/database/about/">&lt;h2 id=&quot;grading-policies&quot;&gt;Grading Policies&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/database/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/database/" rel="alternate" type="text/html" /><updated>2020-08-29T15:24:22-04:00</updated><id>http://localhost:4000/database/feed.xml</id><title type="html">ISM5992 Database Systems</title><subtitle>Course Site for Database Systems Course (ISM5992).</subtitle><entry><title type="html">Course Policies</title><link href="http://localhost:4000/database/about/" rel="alternate" type="text/html" title="Course Policies" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/database/about</id><content type="html" xml:base="http://localhost:4000/database/about/">&lt;h2 id=&quot;grading-policies&quot;&gt;Grading Policies&lt;/h2&gt;
 &lt;p&gt;The final grades for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.&lt;/p&gt;
 
 &lt;table&gt;
@@ -14,12 +14,12 @@
       &lt;td&gt;70%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Assignments&lt;/td&gt;
-      &lt;td&gt;20%&lt;/td&gt;
+      &lt;td&gt;Mid-Term Exam&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Capstone&lt;/td&gt;
-      &lt;td&gt;10%&lt;/td&gt;
+      &lt;td&gt;Final Exam&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Total&lt;/td&gt;
@@ -40,11 +40,11 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;A&lt;/td&gt;
-      &lt;td&gt;95 – 100 or above&lt;/td&gt;
+      &lt;td&gt;93 – 100 or above&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;A-&lt;/td&gt;
-      &lt;td&gt;90 – 94.99&lt;/td&gt;
+      &lt;td&gt;90 – 92.99&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;B+&lt;/td&gt;
@@ -84,82 +84,141 @@
 
 &lt;p&gt;Lipson, C. Doing honest work in college: how to prepare citations, avoid plagiarism, and achieve academic success, Chicago, 2004.&lt;/p&gt;
 
+&lt;h2 id=&quot;lockdown-browser&quot;&gt;Lockdown Browser&lt;/h2&gt;
+&lt;p&gt;This course requires the use of LockDown Browser for taking online exams (midterm and final exams only). The computer used for taking exams must also have a built-in or external webcam. The LockDown Browser software prevents a user from accessing other applications or going to other websites during an exam. The webcam (Respondus Monitor) records you during the exam to ensure you’re only using resources that are permitted. Together, these tools make it possible for students to take online exams from any location, and at times that are convenient. It also creates a fair testing environment for everyone in the course. You will need to download and install &lt;a href=&quot;https://download.respondus.com/lockdown/download.php?id=451214388&quot;&gt;LockDown Browser&lt;/a&gt; to your computer and use it to take tests (instead of using your normal browser). Note: Do not download a copy of LockDown Browser from elsewhere on the Internet; those versions won’t work at our institution. Review this list prior to taking your quiz or exam:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ensure you are in a location where you won’t be interrupted&lt;/li&gt;
+  &lt;li&gt;Turn off all mobile devices, phones, etc.&lt;/li&gt;
+  &lt;li&gt;Clear your desk of all external materials — books, papers, other computers, or devices&lt;/li&gt;
+  &lt;li&gt;No one else should be in the room with you&lt;/li&gt;
+  &lt;li&gt;Remain at your desk or workstation for the duration of the test&lt;/li&gt;
+  &lt;li&gt;Launch the LockDown Browser and choose Canvas from the drop-down menu&lt;/li&gt;
+  &lt;li&gt;Log in using your WSU access ID and password; navigate to your course&lt;/li&gt;
+  &lt;li&gt;Go to your Exam Content area and select the exam&lt;/li&gt;
+  &lt;li&gt;You will then need to review and agree to the Terms of Use for Respondus Monitor&lt;/li&gt;
+  &lt;li&gt;The Webcam Check will confirm that your webcam and microphone are working properly.&lt;/li&gt;
+  &lt;li&gt;The first time the Webcam Check is performed on a computer, Adobe Flash Player will require you to select Allow and Remember.&lt;/li&gt;
+  &lt;li&gt;The remaining steps of the Startup Sequence will depend on settings chosen by your instructor.&lt;/li&gt;
+  &lt;li&gt;Follow the instructions and note your progress along the top of the screen.&lt;/li&gt;
+  &lt;li&gt;If you encounter a problem, select the It’s not working link for troubleshooting tips.&lt;/li&gt;
+  &lt;li&gt;The test will begin after the Startup Sequence is complete.&lt;/li&gt;
+  &lt;li&gt;If an interruption occurs during the exam, briefly explain what happened by speaking directly to your webcam&lt;/li&gt;
+  &lt;li&gt;You cannot exit the exam until all questions are completed and submitted for grading.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Remember that you cannot take the exam using any other Internet browser (Internet Explorer, Firefox, Safari, etc.) besides the LockDown Browser and that you cannot exit the LockDown Browser until the quiz is submitted. Also, remember to save your answers as you go along the quiz. We highly suggest that you use a wired Internet connection as opposed to a wireless one - if your wireless connection drops at all, you will get disconnected from the Canvas server and may have to have it reset by your instructor. Please make sure to do your practice quiz.&lt;/p&gt;
+
 &lt;h2 id=&quot;student-disabilities-services&quot;&gt;Student Disabilities Services&lt;/h2&gt;
-&lt;p&gt;If you have a documented disability that requires accommodations, you will need to register with Student Disability Services for coordination of your academic accommodations. The Student Disability Services (SDS) office is located at 1600 David Adamany Undergraduate Library in the Student Academic Success Services department. The SDS telephone number is 313-577-1851 or 313-202-4216 for videophone use. Once you have your accommodations in place, I will be glad to meet with you privately during my office hours to discuss your special needs. Student Disability Services’ mission is to assist the university in creating an accessible community where students with disabilities have an equal opportunity to fully participate in their educational experience at Wayne State University. You can learn more about the disability office at www.studentdisability.wayne.edu To register with Student Disability Services, complete the online registration form at: https://wayne-accommodate.symplicity.com/public_accommodation/&lt;/p&gt;</content><author><name></name></author><summary type="html">Grading Policies The final grades for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.</summary></entry><entry><title type="html">Syllabus</title><link href="http://localhost:4000/database/syllabus/" rel="alternate" type="text/html" title="Syllabus" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/database/syllabus</id><content type="html" xml:base="http://localhost:4000/database/syllabus/">&lt;p&gt;The Data Mining course for graduate students, is focused on learning skills necessary for generating insights from data to aid business decision making. This is a hands on course with a focus on teaching technical skills for converting raw data into useful insights. Students will learn how to ingest, prep, visualize and mine data using the popular open source data science tool - R. Applications of data mining techniques in business functions will be illustrated. A computer is required for this course. No prior programming experience is assumed.&lt;/p&gt;
+&lt;p&gt;If you have a documented disability that requires accommodations, you will need to register with Student Disability Services for coordination of your academic accommodations. The Student Disability Services (SDS) office is located at 1600 David Adamany Undergraduate Library in the Student Academic Success Services department. The SDS telephone number is 313-577-1851 or 313-202-4216 for videophone use. Once you have your accommodations in place, I will be glad to meet with you privately during my office hours to discuss your special needs. Student Disability Services’ mission is to assist the university in creating an accessible community where students with disabilities have an equal opportunity to fully participate in their educational experience at Wayne State University. You can learn more about the disability office at www.studentdisability.wayne.edu To register with Student Disability Services, complete the online registration form at: https://wayne-accommodate.symplicity.com/public_accommodation/&lt;/p&gt;</content><author><name></name></author><summary type="html">Grading Policies The final grades for this course will be determined based on the following weights for each item. Students will be given a grade solely based on the stated requirements.</summary></entry><entry><title type="html">Syllabus</title><link href="http://localhost:4000/database/syllabus/" rel="alternate" type="text/html" title="Syllabus" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/database/syllabus</id><content type="html" xml:base="http://localhost:4000/database/syllabus/">&lt;p&gt;Database Systems is a hands on course with a focus on acquiring technical skills for working with RDBMS systems. Students will learn how to write structure queries to select, join, filter, sort and report on data sets.
+Data in most organizations resides in RDBMSs (Relational Data Base Management Systems) , such as SQL, ORACLE, and, ACCESS. Having the ability to work with them is essential for having access to these data sets. This course is focused on learning skills necessary for retrieving, processing, and reporting data present in RDBMSs (Relational Database Management Systems).
+A computer is required for this course. No prior programming experience is assumed.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Week of&lt;/th&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Wk. of&lt;/th&gt;
       &lt;th&gt;Topic&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;09/01&lt;/td&gt;
-      &lt;td&gt;Intro to Data Mining&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;09/02&lt;/td&gt;
+      &lt;td&gt;Introduction to Databases&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;09/07&lt;/td&gt;
-      &lt;td&gt;R basics , Anatomy of R&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;09/09&lt;/td&gt;
+      &lt;td&gt;Hands-on SQL: Selecting columns&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;09/14&lt;/td&gt;
-      &lt;td&gt;Data Visualization using ggplot2 - 1&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;09/16&lt;/td&gt;
+      &lt;td&gt;Hands-on SQL: Filtering rows&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;09/21&lt;/td&gt;
-      &lt;td&gt;Working with Data in R (dplyr)&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;09/23&lt;/td&gt;
+      &lt;td&gt;Hands-on SQL: Aggregating Functions&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;09/28&lt;/td&gt;
-      &lt;td&gt;Data Visualization using ggplot2 - 2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;09/30&lt;/td&gt;
+      &lt;td&gt;Hands-on SQL: Sorting and Grouping&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;10/05&lt;/td&gt;
-      &lt;td&gt;Correlation &amp;amp; Regression&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;10/07&lt;/td&gt;
+      &lt;td&gt;Hands on SQL: Writing Simple Sub-queries&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;10/12&lt;/td&gt;
-      &lt;td&gt;Market basket Analysis&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;10/14&lt;/td&gt;
+      &lt;td&gt;Hands on SQL: Joining Tables&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;10/19&lt;/td&gt;
-      &lt;td&gt;Text Analytics&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;10/21&lt;/td&gt;
+      &lt;td&gt;Mid-term  Exam&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;10/26&lt;/td&gt;
-      &lt;td&gt;Social Media Analytics&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10/28&lt;/td&gt;
+      &lt;td&gt;Understanding Tables&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;11/02&lt;/td&gt;
-      &lt;td&gt;Geo-spatial Analytics&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11/04&lt;/td&gt;
+      &lt;td&gt;Understanding Databases&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;11/09&lt;/td&gt;
-      &lt;td&gt;Communicating Insights for Decision Making&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;11/11&lt;/td&gt;
+      &lt;td&gt;Introduction to Database Design&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;11/18&lt;/td&gt;
+      &lt;td&gt;Entity Relationship Diagrams&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;11/25&lt;/td&gt;
+      &lt;td&gt;Database Design Lab-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;12/02&lt;/td&gt;
+      &lt;td&gt;Database Design Lab-2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;12/09&lt;/td&gt;
+      &lt;td&gt;Final Exam&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h2 id=&quot;text-books&quot;&gt;Text Books&lt;/h2&gt;
-&lt;p&gt;Much of the material we cover in the course is available in these two online textbooks:&lt;/p&gt;
+&lt;p&gt;There is no required Text Book for this course. However, students interested in going more in-depth can reference the following books which cover most topics we will discussing in this course. Both these books are available online through Wayne State University Libraries. You do NOT need to purchase these books.&lt;/p&gt;
+
+&lt;p&gt;For SQL:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://r4ds.had.co.nz/&quot;&gt;Grolemund, Garrett, and Wickham, Hadley. R for data science, 1st Edition, O’Reilly Media&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rafalab.github.io/dsbook/&quot;&gt;Irizarry, Rafael, Introduction to Data Science, 1st Edition, Chapman and Hall/CRC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/SQL-Example-John-Russo/dp/1945612622&quot;&gt;Russo, John. SQL by Example, New York : Momentum Press. 2018&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In addition to these you may come across a large variety of free books and resources available on the web. No text book purchase is required for this course. Any required readings will be referenced through the course as needed.&lt;/p&gt;
+&lt;p&gt;For Database Design:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Database-Design-Entity-Relationship-Diagrams-Foundations/dp/1439861765/ref=sr_1_3?dchild=1&amp;amp;keywords=Database+Design+Using+Entity-Relationship+Diagrams&amp;amp;qid=1598712857&amp;amp;s=books&amp;amp;sr=1-3&quot;&gt;Bagui, Sikha and Earp, Richard, Auerbach Publications; 2nd Edition (September 7, 2011)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to these, we may leverage resources available on the web. Additional readings will be referenced through the course as needed.&lt;/p&gt;
 
 &lt;h2 id=&quot;workflow&quot;&gt;Workflow&lt;/h2&gt;
 &lt;p&gt;Work will consist of tutorials, videos, hands on labs and exercises. There will be a heavy emphasis on learning by doing. Task lists for each week will be laid out in detail.&lt;/p&gt;
-&lt;h3 id=&quot;datacamp&quot;&gt;Datacamp&lt;/h3&gt;
-&lt;p&gt;Hands on Labs will be available on Datacamp, an online platform for data science tutorials and exercises.
-Datacamp labs are guided tutorials with hints to aid the learning process. Students will be provided access to this platform as part of this class. They do NOT need to pay for the platform.&lt;/p&gt;
 
 &lt;h2 id=&quot;evaluation-of-work&quot;&gt;Evaluation of work&lt;/h2&gt;
-&lt;p&gt;Given the limited time and the expanse of the subject, we will not use up classes for exams. Instead, your evaluation will depend upon completion of labs and assignments, that will be assigned each week. Students can attempt the labs as many times as needed. Pass/fail scores will be assigned based on on-time completion of these labs. In addition to labs, exercises and quizzes will be assigned at appropriate points in the course.&lt;/p&gt;
-
-&lt;h2 id=&quot;industry-application-optional&quot;&gt;Industry Application (optional)&lt;/h2&gt;
-&lt;p&gt;Students interested in applying data mining to specific projects in their work place are welcome to approach Prof. Sharma directly. He has over a decade of industry experience before joining academia and students in previous terms have availed of this option. This is available as a purely optional component, and will not affect course grading in any way.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Data Mining course for graduate students, is focused on learning skills necessary for generating insights from data to aid business decision making. This is a hands on course with a focus on teaching technical skills for converting raw data into useful insights. Students will learn how to ingest, prep, visualize and mine data using the popular open source data science tool - R. Applications of data mining techniques in business functions will be illustrated. A computer is required for this course. No prior programming experience is assumed.</summary></entry><entry><title type="html">Welcome to Database Systems Class!</title><link href="http://localhost:4000/database/2020/08/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Database Systems Class!" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/database/2020/08/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/database/2020/08/21/welcome-to-jekyll.html">&lt;h1 id=&quot;welcome-to-class-the-focus-of-this-class-will-be-learning-the-technical-skills-for-database-systems&quot;&gt;Welcome to class! The focus of this class will be learning the technical skills for database systems.&lt;/h1&gt;
-&lt;p&gt;Most organizations store their data in RDBMS systems. This course will help you develop a functional ability to work with these systems.&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to class! The focus of this class will be learning the technical skills for database systems. Most organizations store their data in RDBMS systems. This course will help you develop a functional ability to work with these systems.</summary></entry></feed>
+&lt;p&gt;A large part of your grades is based on timely completion of exercises throughout the course. Most classes will have hands on exercises. Exercises are online and students can have unlimited attempts till due date. Pass/fail grades will be given based on whether the exercise was completed. Students can seek help from the instructor if they are stuck. In addition to labs, there is a mid-term and final exam.&lt;/p&gt;</content><author><name></name></author><summary type="html">Database Systems is a hands on course with a focus on acquiring technical skills for working with RDBMS systems. Students will learn how to write structure queries to select, join, filter, sort and report on data sets. Data in most organizations resides in RDBMSs (Relational Data Base Management Systems) , such as SQL, ORACLE, and, ACCESS. Having the ability to work with them is essential for having access to these data sets. This course is focused on learning skills necessary for retrieving, processing, and reporting data present in RDBMSs (Relational Database Management Systems). A computer is required for this course. No prior programming experience is assumed.</summary></entry><entry><title type="html">Welcome to Database Systems Class!</title><link href="http://localhost:4000/database/2020/08/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Database Systems Class!" /><published>2020-08-21T00:00:00-04:00</published><updated>2020-08-21T00:00:00-04:00</updated><id>http://localhost:4000/database/2020/08/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/database/2020/08/21/welcome-to-jekyll.html">&lt;h1 id=&quot;welcome-to-class&quot;&gt;Welcome to class!&lt;/h1&gt;
+&lt;p&gt;Most organizations store their data in RDBMS systems. In this data centric world, the ability to access and work with data is critical. This course will help you develop this ability. You will learn to select, filter, sort, group, join, report on data stored in RDBMS systems. You will also learn to design database management systems.&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to class! Most organizations store their data in RDBMS systems. In this data centric world, the ability to access and work with data is critical. This course will help you develop this ability. You will learn to select, filter, sort, group, join, report on data stored in RDBMS systems. You will also learn to design database management systems.</summary></entry></feed>

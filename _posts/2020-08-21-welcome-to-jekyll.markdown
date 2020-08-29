@@ -4,5 +4,5 @@ title:  "Welcome to Database Systems Class!"
 #date:   2020-08-20
 #categories: jekyll update
 ---
-# Welcome to class! The focus of this class will be learning the technical skills for database systems.
-Most organizations store their data in RDBMS systems. This course will help you develop a functional ability to work with these systems.
+# Welcome to class!
+Most organizations store their data in RDBMS systems. In this data centric world, the ability to access and work with data is critical. This course will help you develop this ability. You will learn to select, filter, sort, group, join, report on data stored in RDBMS systems. You will also learn to design database management systems.
